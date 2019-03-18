@@ -1,0 +1,11 @@
+{
+   "extensionName": {
+        "message": "lcs-downloader",
+        "description": "Name of the extension."
+    },
+
+    "extensionDescription": {
+        "message": "Downloads videos from LCS/LMS/Blackboard/Echo360",
+        "description": "Description of the extension"
+    }
+}

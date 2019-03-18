@@ -1,0 +1,22 @@
+  {
+    "manifest_version": 2,
+    "name": "lcs-downloader",
+    "version": "1.0",
+
+    "default_locale": "en",
+    "description": "Download lectures from LCS/LMS/Blackboard/Echo360",
+
+    "browser_action": {},
+    "background": {
+      "scripts": [
+          "background.js"
+      ],
+      "persistent": false
+    },
+
+    "permissions": [
+	    "downloads",
+    	"activeTab",
+        "<all_urls>"
+    ]
+  }
