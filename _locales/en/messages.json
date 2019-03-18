@@ -5,7 +5,7 @@
     },
 
     "extensionDescription": {
-        "message": "Downloads videos from LCS/LMS/Blackboard/Echo360",
+        "message": "Downloads lectures from LCS/LMS/Blackboard/Echo360/Moodle",
         "description": "Description of the extension"
     }
 }
